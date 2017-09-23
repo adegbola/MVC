@@ -1,0 +1,5 @@
+1::Soda::2::9
+2::Pepsi::5::10
+3::Gatorade::4::6
+4::Butterfinger::2::9
+5::Gum::2::8
